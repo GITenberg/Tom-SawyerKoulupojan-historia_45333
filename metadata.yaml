@@ -1,0 +1,46 @@
+_repo: Tom-SawyerKoulupojan-historia_45333
+_version: 0.1.0
+alternative_title: The adventures of Tom Sawyer. Finnish
+contributor:
+  translator:
+    agent_name: Weisell, Josua
+    alias: --ll, --a
+    gutenberg_agent_id: '43224'
+    url: http://www.gutenberg.org/2009/agents/43224
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Twain, Mark (Samuel Clemens)
+    - Clemens, Samuel Langhorne
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: ''
+gutenberg_issued: '2014-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45333'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Runaway children -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Humorous stories'
+- !lcsh 'Child witnesses -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Missouri -- Fiction'
+- !lcsh 'Mississippi River Valley -- Fiction'
+- !lcsh 'Boys -- Fiction'
+- !lcsh 'Male friendship -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Sawyer, Tom (Fictitious character) -- Fiction'
+title: 'Tom Sawyer: Koulupojan historia'
+url: http://www.gutenberg.org/ebooks/45333
