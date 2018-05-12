@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53
     wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45333#Tom-SawyerKoulupojan-historia
 gutenberg_issued: '2014-04-06'
 gutenberg_type: Text
 identifiers:
